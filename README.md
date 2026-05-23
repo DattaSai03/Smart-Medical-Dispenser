@@ -121,7 +121,10 @@ Step	Action
 7	AI module shows prescription
 8	Emergency button calls saved number
 📸 Screenshots 
-<img width="1278" height="722" alt="image" src="https://github.com/user-attachments/assets/b1f81284-446b-4c11-937c-5ff5753e3d4c" />
+<img width="1039" height="652" alt="Screenshot 2026-05-23 112320" src="https://github.com/user-attachments/assets/fcf08d72-1c63-48c5-8d37-fb589448b086" />
+<img width="681" height="627" alt="Screenshot 2026-05-23 112810" src="https://github.com/user-attachments/assets/b921037d-802e-4477-abbd-12cd9bf17376" />
+
+
 
 📱 App UI
 🛠️ Wiring Diagram
