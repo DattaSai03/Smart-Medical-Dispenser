@@ -122,7 +122,12 @@ Step	Action
 8	Emergency button calls saved number
 📸 Screenshots 
 <img width="1039" height="652" alt="Screenshot 2026-05-23 112320" src="https://github.com/user-attachments/assets/fcf08d72-1c63-48c5-8d37-fb589448b086" />
+
+
 <img width="681" height="627" alt="Screenshot 2026-05-23 112810" src="https://github.com/user-attachments/assets/b921037d-802e-4477-abbd-12cd9bf17376" />
+
+
+<img width="931" height="694" alt="image" src="https://github.com/user-attachments/assets/e610053e-3fa4-4a81-a0fd-43dd98b75821" />
 
 
 
